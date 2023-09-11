@@ -30,7 +30,7 @@ Versión del menú de perfil de Discord. Realizado en HTML, CSS y JavaScript
 ---
 ## Screenshot
 <div align="center">
-    <img src="https://imgur.com/IE7PSym" width="350px" alt="Discord Profile Card ">
+    <img src="https://i.imgur.com/IE7PSym.png" width="350px" alt="Discord Profile Card ">
 </div>
 
 ---
